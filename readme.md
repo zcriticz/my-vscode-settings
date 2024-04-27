@@ -61,7 +61,7 @@ The extensions above are the ones I consider essential for any web developer. Ho
   "workbench.startupEditor": "newUntitledFile",
 
   // Theme
-  "workbench.colorTheme": "Ayu Mirage",
+  "workbench.colorTheme": "Ayu Dark",
 
   // Font Family
   "editor.fontSize": 16,
@@ -90,6 +90,8 @@ The extensions above are the ones I consider essential for any web developer. Ho
   "window.menuBarVisibility": "toggle",
   "window.commandCenter": false,
   "workbench.layoutControl.enabled": false,
+  "workbench.activityBar.location": "hidden",
+  "workbench.statusBar.visible": false,
 
   // Code
   "breadcrumbs.enabled": false,
@@ -127,7 +129,15 @@ The extensions above are the ones I consider essential for any web developer. Ho
   "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
 
   // Others
-  "symbols.hidesExplorerArrows": false,
   "liveServer.settings.donotShowInfoMsg": true,
+  "symbols.hidesExplorerArrows": false,
+  "glassit.alpha": 220,
 }
 ```
+<br/>
+<br/>
+
+## Final Result 📷
+![image](https://github.com/zcriticz/my-vscode-settings/assets/111531548/86dfe07f-aa1f-4604-8c2c-bcb197673466)
+
+
