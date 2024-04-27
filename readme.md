@@ -4,7 +4,6 @@
 </div>
 
 <br/>
-<br/>
 
 ## Extensions List
 1. <a href="https://github.com/topics/bookmarks" target="_blank">Bookmarks:</a>&nbsp;Excellent for making quick notes within the code.
