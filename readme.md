@@ -1,5 +1,9 @@
-# My Visual Studio Code Settings
+<div align="center">
+   <img style="width: 100px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png"></img><br/><br/>
+   <p><strong>My Visual Studio Code Settings</strong></p>
+</div>
 
+<br/>
 <br/>
 
 ## Extensions List
