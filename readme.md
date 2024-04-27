@@ -28,8 +28,6 @@ The extensions above are the ones I consider essential for any web developer. Ho
 
 ## My Favorite Customizations
 
-<br/>
-
 #### Theme
 <a href="https://github.com/ayu-theme"> <img style="width: 50px" src="https://avatars.githubusercontent.com/u/22821360?s=200&v=4" alt="ayu"></a>
 
