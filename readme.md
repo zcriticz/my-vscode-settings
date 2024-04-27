@@ -20,7 +20,15 @@
 
 <br/>
 
-### My Favorite Customizations
+#### Note
+The extensions above are the ones I consider essential for any web developer. However, VSCode offers a huge variety of extensions that you can try and use according to your needs.
+
+<br/>
+<br/>
+
+## My Favorite Customizations
+
+<br/>
 
 #### Theme
 <a href="https://github.com/ayu-theme"> <img style="width: 50px" src="https://avatars.githubusercontent.com/u/22821360?s=200&v=4" alt="ayu"></a>
