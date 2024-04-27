@@ -105,12 +105,11 @@
   "terminal.integrated.cursorStyle": "line",
 
   // Terminal Font Family
-  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontSize": 16,
   "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
 
   // Others
-  "liveServer.settings.donotShowInfoMsg": true,
   "symbols.hidesExplorerArrows": false,
+  "liveServer.settings.donotShowInfoMsg": true,
 }
-
 ```
