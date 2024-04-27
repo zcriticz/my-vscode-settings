@@ -1,13 +1,14 @@
 # My Visual Studio Code Settings
 
 ## Extensions List
-1. <a href="https://github.com/usernamehw/vscode-error-lens" target="_blank">Error Lens:</a>&nbsp;Improve highlighting of errors, warnings and other language diagnostics.
-2. <a href="https://github.com/topics/bookmarks" target="_blank">Bookmarks:</a>&nbsp;Excellent for making quick notes within the code.
-3. <a href="https://github.com/aaron-bond/better-comments" target="_blank">Better Comments:</a>&nbsp;A powerful way to add custom comments to your codes.
-4. <a href="https://github.com/topics/color-highlight" target="_blank">Color Highlight:</a>&nbsp;An extension that improves the reading of your color markings in CSS..
-5.  <a href="https://github.com/willofindie/vscode-cssvar" target="_blank">CSS Var Complete:</a>&nbsp;Essentially it does the same thing as Color Highlight, but with color variables. A very good intellisense to work with css roots.
-6. <a href="https://github.com/prettier/eslint-plugin-prettier" target="_blank">EsLint/Prettier:</a>&nbsp;While Eslint makes a detailed invoice to find possible errors involving JavaScript, Prettier identifies and standardizes the code in a quick and visually pleasing way.
-
+1. <a href="https://github.com/topics/bookmarks" target="_blank">Bookmarks:</a>&nbsp;Excellent for making quick notes within the code.
+2. <a href="https://github.com/aaron-bond/better-comments" target="_blank">Better Comments:</a>&nbsp;A powerful way to add custom comments to your codes.
+3. <a href="https://github.com/topics/color-highlight" target="_blank">Color Highlight:</a>&nbsp;An extension that improves the reading of your color markings in CSS..
+4.  <a href="https://github.com/willofindie/vscode-cssvar" target="_blank">CSS Var Complete:</a>&nbsp;Essentially it does the same thing as Color Highlight, but with color variables.
+5. <a href="https://github.com/prettier/eslint-plugin-prettier" target="_blank">EsLint/Prettier:</a>&nbsp;While Eslint makes a detailed invoice to find possible errors involving JavaScript, Prettier identifies and standardizes the code in a quick and visually pleasing way.
+6. <a href="https://github.com/usernamehw/vscode-error-lens" target="_blank">Error Lens:</a>&nbsp;Improve highlighting of errors, warnings and other language diagnostics.
+7. <a href="https://github.com/usernamehw/vscode-error-lens" target="_blank">Git Leans:</a>&nbsp;A real-time commit history so you always know who made certain changes to your code.
+   
 <br/>
 
 ### Live Code Extensions
