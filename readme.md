@@ -20,7 +20,7 @@
 
 <br/>
 
-### My Favorites Customized
+### My Favorite Customizations
 
 #### Theme
 <a href="https://github.com/ayu-theme"> <img style="width: 50px" src="https://avatars.githubusercontent.com/u/22821360?s=200&v=4" alt="ayu"></a>
