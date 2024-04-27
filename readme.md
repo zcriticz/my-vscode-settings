@@ -52,7 +52,7 @@ The extensions above are the ones I consider essential for any web developer. Ho
 
 <a href="https://github.com/hikarin522/GlassIt-VSC"> <img style="width: 50px" src="https://drcika.gallerycdn.vsassets.io/extensions/drcika/apc-extension/0.3.9/1709478442827/Microsoft.VisualStudio.Services.Icons.Default" alt="apc-customize"></a><br/>
 
-<p>GlassIt-VSC is an extension that makes your vscode background completely transparent.</p>
+<p>GlassIt-VSC is an extension that makes your VSCode background completely transparent.</p>
 
 <br/>
 <br/>
