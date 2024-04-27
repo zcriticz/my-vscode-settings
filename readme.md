@@ -28,8 +28,6 @@ The extensions above are the ones I consider essential for any web developer. Ho
 
 ## My Favorite Customizations
 
-<br/>
-
 #### Theme
 <a href="https://github.com/ayu-theme"> <img style="width: 50px" src="https://avatars.githubusercontent.com/u/22821360?s=200&v=4" alt="ayu"></a>
 
@@ -41,6 +39,7 @@ The extensions above are the ones I consider essential for any web developer. Ho
 1. <a href="https://www.jetbrains.com/pt-br/lp/mono/" target="_blank">JetBrains Mono</a>&nbsp;A beautiful and modern mono spaced font. The best for reading codes in my opinion.
 2. <a href="https://www.nerdfonts.com/font-downloads" target="_blank">JetBrainsMono Nerd Font</a>&nbsp;The Nerd Font version of JetBrains Mono for your terminal to look even better.
 
+<br/>
 <br/>
 
 ## My User Settings (JSON)
