@@ -42,6 +42,13 @@ The extensions above are the ones I consider essential for any web developer. Ho
 #### My Favorite Font to Code
 1. <a href="https://www.jetbrains.com/pt-br/lp/mono/" target="_blank">JetBrains Mono</a>&nbsp;A beautiful and modern mono spaced font. The best for reading codes in my opinion.
 2. <a href="https://www.nerdfonts.com/font-downloads" target="_blank">JetBrainsMono Nerd Font</a>&nbsp;The Nerd Font version of JetBrains Mono for your terminal to look even better.
+   
+<br/>
+
+#### Others Customizations
+<a href="https://github.com/drcika/apc-extension?tab=readme-ov-file"> <img style="width: 50px" src="https://drcika.gallerycdn.vsassets.io/extensions/drcika/apc-extension/0.3.9/1709478442827/Microsoft.VisualStudio.Services.Icons.Default" alt="apc-customize"></a><br/>
+
+<p>Apc Customize UI++ is a powerful tool capable of changing Electron properties (VSCode technology) and thus creating various customizations to the user's taste.</p>
 
 <br/>
 <br/>
