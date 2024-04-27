@@ -14,7 +14,6 @@
 6. <a href="https://github.com/prettier/eslint-plugin-prettier" target="_blank">EsLint/Prettier:</a>&nbsp;While Eslint makes a detailed invoice to find possible errors involving JavaScript, Prettier identifies and standardizes the code in a quick and visually pleasing way.
 
 <br/>
-<br/>
 
 ### Live Code Extensions
 1. <a href="https://github.com/ritwickdey/vscode-live-server" target="_blank">Live Server: </a>&nbsp;Launch a development local Server with live reload feature for static & dynamic pages.
@@ -30,5 +29,8 @@
 #### VSCode Theme
 <a href="https://github.com/ayu-theme"> <img style="width: 50px" src="https://avatars.githubusercontent.com/u/22821360?s=200&v=4" alt="ayu"></a>
 
-#### Icon Theme
-<a href="https://github.com/ayu-theme"> <img style="width: 50px" src="https://avatars.githubusercontent.com/u/22821360?s=200&v=4" alt="ayu"></a>
+#### Icon Theme / Product Theme
+<a href="https://github.com/miguelsolorio/vscode-symbols"> <img style="width: 50px" src="https://raw.githubusercontent.com/misolori/vscode-symbols/main/symbols.png" alt="symbols"></a>
+<a href="https://github.com/miguelsolorio/vscode-fluent-icons"> <img style="width: 50px" src="https://raw.githubusercontent.com/misolori/vscode-fluent-icons/master/icon.png" alt="fluent-icons"></a>
+
+## My 
