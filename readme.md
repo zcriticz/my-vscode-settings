@@ -1,6 +1,10 @@
 <div align="center">
    <img style="width: 80px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png"></img><br/><br/>
-   <p><strong>My Visual Studio Code Settings</strong></p>
+   <h1>
+      <strong>My VSCode Settings!</strong>
+   </h1>
+
+   <h3><a href="https://code.visualstudio.com" target="_blank">Visual Studio Code</a> is without a doubt the most popular IDE today, especially essential for web developers. Here I list    my main settings.</h3>
 </div>
 
 <br/>
@@ -123,7 +127,7 @@ The extensions above are the ones I consider essential for any web developer. Ho
   "terminal.integrated.cursorStyle": "line",
 
   // Terminal Font 16y
-  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontSize": 16,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
 
   // Others
