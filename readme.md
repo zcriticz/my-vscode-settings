@@ -32,16 +32,15 @@ The extensions above are the ones I consider essential for any web developer. Ho
 
 ## My Favorite Customizations
 
-#### Theme
+#### Theme & Icon Theme
 <a href="https://github.com/ayu-theme"> <img style="width: 50px" src="https://avatars.githubusercontent.com/u/22821360?s=200&v=4" alt="ayu"></a>
+<a href="https://github.com/vscode-icons/vscode-icons?tab=readme-ov-file"> <img style="width: 50px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/logo@3x.png" alt="symbols"></a>
 
-#### Icon Theme / Product Theme
-<a href="https://github.com/miguelsolorio/vscode-symbols"> <img style="width: 50px" src="https://raw.githubusercontent.com/misolori/vscode-symbols/main/symbols.png" alt="symbols"></a>
-<a href="https://github.com/miguelsolorio/vscode-fluent-icons"> <img style="width: 50px" src="https://raw.githubusercontent.com/misolori/vscode-fluent-icons/master/icon.png" alt="fluent-icons"></a>
+<br/>
 
 #### My Favorite Font to Code
-1. <a href="https://www.jetbrains.com/pt-br/lp/mono/" target="_blank">JetBrains Mono</a>&nbsp;A beautiful and modern mono spaced font. The best for reading codes in my opinion.
-2. <a href="https://www.nerdfonts.com/font-downloads" target="_blank">JetBrainsMono Nerd Font</a>&nbsp;The Nerd Font version of JetBrains Mono for your terminal to look even better.
+1. <a href="https://github.com/microsoft/cascadia-code" target="_blank">Cascadia Code</a>&nbsp;The best font for reading code in my opinion!
+2. <a href="https://www.nerdfonts.com/font-downloads" target="_blank">CaskaydiaCove Nerd Font</a>&nbsp;The Nerd Font version of Cascadia Code for your terminal to look even better.
    
 <br/>
 
@@ -61,6 +60,9 @@ The extensions above are the ones I consider essential for any web developer. Ho
 
 ```
 {
+  // Zoom
+  "window.zoomLevel": 1,
+
   // VSCode Startup
   "workbench.startupEditor": "newUntitledFile",
 
@@ -70,14 +72,11 @@ The extensions above are the ones I consider essential for any web developer. Ho
   // Font Family
   "editor.fontSize": 16,
   "editor.lineHeight": 1.8,
-  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontFamily": "Cascadia Code",
   "editor.fontLigatures": true,
 
-  // Font Family by Apc
-  "apc.font.family": "Inter",
-
   // Folders
-  "workbench.iconTheme": "symbols",
+  "workbench.iconTheme": "vscode-icons",
   "explorer.compactFolders": false,
   "explorer.confirmDragAndDrop": false,
   "explorer.confirmDelete": false,
@@ -87,15 +86,9 @@ The extensions above are the ones I consider essential for any web developer. Ho
     "height": 24
   },
 
-  // Product Theme
-  "workbench.productIconTheme": "fluent-icons",
-
   // Interface
   "window.menuBarVisibility": "toggle",
-  "window.commandCenter": false,
   "workbench.layoutControl.enabled": false,
-  "workbench.activityBar.location": "hidden",
-  "workbench.statusBar.visible": false,
 
   // Code
   "breadcrumbs.enabled": false,
@@ -107,6 +100,7 @@ The extensions above are the ones I consider essential for any web developer. Ho
   "editor.wordWrap": "on",
   "editor.guides.bracketPairs": true,
   "editor.semanticHighlighting.enabled": false,
+  "editor.cursorBlinking": "expand",
 
   // Code Save Configs
   "files.autoSave": "afterDelay",
@@ -128,20 +122,18 @@ The extensions above are the ones I consider essential for any web developer. Ho
   "terminal.integrated.defaultProfile.windows": "Command Prompt",
   "terminal.integrated.cursorStyle": "line",
 
-  // Terminal Font Family
-  "terminal.integrated.fontSize": 16,
-  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  // Terminal Font 16y
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
 
   // Others
   "liveServer.settings.donotShowInfoMsg": true,
-  "symbols.hidesExplorerArrows": false,
-  "glassit.alpha": 220,
+  "glassit.alpha": 220
 }
+
 ```
 <br/>
 <br/>
 
 ## Final Result 📷
-![image](https://github.com/zcriticz/my-vscode-settings/assets/111531548/86dfe07f-aa1f-4604-8c2c-bcb197673466)
-
-<p>As you can see, I like to keep my VSCode very clean, removing things that I consider "useless" (command center, status bar, etc.), which reminded me of the old Vim, an IDE that I used for a long time when I was learning the concepts programming in high school.</p>
+![image](https://github.com/zcriticz/my-vscode-settings/assets/111531548/cac0e318-dbad-42ca-b212-e451aed9693c)
