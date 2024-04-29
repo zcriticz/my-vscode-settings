@@ -4,7 +4,7 @@
       <strong>My VSCode Settings!</strong>
    </h1>
 
-   <h4><a href="https://code.visualstudio.com" target="_blank">Visual Studio Code</a> is without a doubt the most popular IDE today, especially essential for web developers. Here I list    my main settings.</h4>
+   <h3>Discover my main settings for <a href="https://code.visualstudio.com" target="_blank">Visual Studio Code</a></h3>
 </div>
 
 <br/>
@@ -35,10 +35,20 @@ The extensions above are the ones I consider essential for any web developer. Ho
 <br/>
 
 ## My Favorite Customizations
+<a href="https://github.com/hikarin522/GlassIt-VSC">GlassIt-VSC</a> is an extension that makes your VSCode background completely transparent.
 
-#### Theme & Icon Theme
-<a href="https://github.com/ayu-theme"> <img style="width: 50px" src="https://avatars.githubusercontent.com/u/22821360?s=200&v=4" alt="ayu"></a>
-<a href="https://github.com/vscode-icons/vscode-icons?tab=readme-ov-file"> <img style="width: 50px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/logo@3x.png" alt="symbols"></a>
+<br/>
+
+#### My Favorites Themes
+<a href="https://github.com/ayu-theme"> <img style="width: 50px" src="https://avatars.githubusercontent.com/u/22821360?s=200&v=4" alt="ayu"></a>&nbsp;
+<a href="https://github.com/guilhermerodz/omni-owl?tab=readme-ov-file"> <img style="width: 50px" src="https://camo.githubusercontent.com/385ca0b93603cc96ccafbff24dd5d42411dad9de80264000f0e7535ea74ea37c/68747470733a2f2f692e696d6775722e636f6d2f536a514d396a502e706e67" alt="omni"></a>&nbsp;
+<a href="https://github.com/barrsan/reui-vscode-theme"> <img style="width: 50px" src="https://github.com/barrsan/reui-vscode-theme/blob/master/icon.png" alt="Reui"></a>&nbsp;
+<a href="https://github.com/ahmadawais/shades-of-purple-vscode"> <img style="width: 50px" src="https://github.com/ahmadawais/shades-of-purple-vscode/blob/master/images/icon/logo.png" alt="ayu"></a>&nbsp;
+
+<br/>
+
+#### My Icon Theme
+<a href="https://github.com/vscode-icons/vscode-icons?tab=readme-ov-file"> <img style="width: 50px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/logo@3x.png" alt="vscode-icons"></a>
 
 <br/>
 
@@ -52,10 +62,6 @@ The extensions above are the ones I consider essential for any web developer. Ho
 <a href="https://github.com/drcika/apc-extension?tab=readme-ov-file"> <img style="width: 50px" src="https://drcika.gallerycdn.vsassets.io/extensions/drcika/apc-extension/0.3.9/1709478442827/Microsoft.VisualStudio.Services.Icons.Default" alt="apc-customize"></a><br/>
 
 <p>Apc Customize UI++ is a powerful tool capable of changing Electron properties (VSCode technology) and thus creating various customizations to the user's taste.</p>
-
-<a href="https://github.com/hikarin522/GlassIt-VSC"> <img style="width: 50px" src="https://drcika.gallerycdn.vsassets.io/extensions/drcika/apc-extension/0.3.9/1709478442827/Microsoft.VisualStudio.Services.Icons.Default" alt="apc-customize"></a><br/>
-
-<p>GlassIt-VSC is an extension that makes your VSCode background completely transparent.</p>
 
 <br/>
 <br/>
