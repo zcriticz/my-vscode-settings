@@ -4,7 +4,7 @@
       <strong>My VSCode Settings!</strong>
    </h1>
 
-   <h3><a href="https://code.visualstudio.com" target="_blank">Visual Studio Code</a> is without a doubt the most popular IDE today, especially essential for web developers. Here I list    my main settings.</h3>
+   <h4><a href="https://code.visualstudio.com" target="_blank">Visual Studio Code</a> is without a doubt the most popular IDE today, especially essential for web developers. Here I list    my main settings.</h4>
 </div>
 
 <br/>
