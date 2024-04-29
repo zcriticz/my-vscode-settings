@@ -15,9 +15,10 @@
 2. <a href="https://github.com/aaron-bond/better-comments" target="_blank">Better Comments:</a>&nbsp;A powerful way to add custom comments to your codes.
 3. <a href="https://github.com/topics/color-highlight" target="_blank">Color Highlight:</a>&nbsp;An extension that improves the reading of your color markings in CSS..
 4. <a href="https://github.com/willofindie/vscode-cssvar" target="_blank">CSS Var Complete:</a>&nbsp;Essentially it does the same thing as Color Highlight, but with color variables.
-5. <a href="https://github.com/usernamehw/vscode-error-lens" target="_blank">Error Lens:</a>&nbsp;Improve highlighting of errors, warnings and other language diagnostics.
-6. <a href="https://github.com/prettier/eslint-plugin-prettier" target="_blank">EsLint/Prettier:</a>&nbsp;While Eslint makes a detailed invoice to find possible errors involving JavaScript, Prettier identifies and standardizes the code in a quick and visually pleasing way.
-7. <a href="https://github.com/usernamehw/vscode-error-lens" target="_blank">Git Leans:</a>&nbsp;A real-time commit history so you always know who made certain changes to your code.
+5. <a href="https://github.com/wallabyjs/console-ninja" target="_blank">Console Ninja:</a>&nbsp;A fast and very accurate console integrated with your VSCode.
+6. <a href="https://github.com/usernamehw/vscode-error-lens" target="_blank">Error Lens:</a>&nbsp;Improve highlighting of errors, warnings and other language diagnostics.
+7. <a href="https://github.com/prettier/eslint-plugin-prettier" target="_blank">EsLint/Prettier:</a>&nbsp;While Eslint makes a detailed invoice to find possible errors involving JavaScript, Prettier identifies and standardizes the code in a quick and visually pleasing way.
+8. <a href="https://github.com/usernamehw/vscode-error-lens" target="_blank">Git Leans:</a>&nbsp;A real-time commit history so you always know who made certain changes to your code.
    
 <br/>
 
@@ -41,8 +42,8 @@ The extensions above are the ones I consider essential for any web developer. Ho
 
 #### My Favorites Themes
 <a href="https://github.com/ayu-theme"> <img style="width: 50px" src="https://avatars.githubusercontent.com/u/22821360?s=200&v=4" alt="ayu"></a>&nbsp;
-<a href="https://github.com/barrsan/reui-vscode-theme"> <img style="width: 50px" src="https://github.com/barrsan/reui-vscode-theme/blob/master/icon.png" alt="Reui"></a>&nbsp;
 <a href="https://github.com/guilhermerodz/omni-owl?tab=readme-ov-file"> <img style="width: 50px" src="https://camo.githubusercontent.com/385ca0b93603cc96ccafbff24dd5d42411dad9de80264000f0e7535ea74ea37c/68747470733a2f2f692e696d6775722e636f6d2f536a514d396a502e706e67" alt="omni"></a>&nbsp;
+<a href="https://github.com/barrsan/reui-vscode-theme"> <img style="width: 50px" src="https://github.com/barrsan/reui-vscode-theme/blob/master/icon.png" alt="Reui"></a>&nbsp;
 <a href="https://github.com/ahmadawais/shades-of-purple-vscode"> <img style="width: 50px" src="https://github.com/ahmadawais/shades-of-purple-vscode/blob/master/images/icon/logo.png" alt="shades-of-purple"></a>&nbsp;
 <a href="https://github.com/vagalumedev/firefly-vscode-theme"> <img style="width: 50px" src="https://github.com/vagalumedev/firefly-vscode-theme/blob/main/firefly-icon.png"></a>&nbsp;
 
