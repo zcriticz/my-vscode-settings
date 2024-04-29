@@ -42,10 +42,10 @@ The extensions above are the ones I consider essential for any web developer. Ho
 
 #### My Favorites Themes
 <a href="https://github.com/ayu-theme"> <img style="width: 50px" src="https://avatars.githubusercontent.com/u/22821360?s=200&v=4" alt="ayu"></a>&nbsp;
+<a href="https://github.com/vagalumedev/firefly-vscode-theme"> <img style="width: 50px" src="https://github.com/vagalumedev/firefly-vscode-theme/blob/main/firefly-icon.png"></a>&nbsp;
 <a href="https://github.com/guilhermerodz/omni-owl?tab=readme-ov-file"> <img style="width: 50px" src="https://camo.githubusercontent.com/385ca0b93603cc96ccafbff24dd5d42411dad9de80264000f0e7535ea74ea37c/68747470733a2f2f692e696d6775722e636f6d2f536a514d396a502e706e67" alt="omni"></a>&nbsp;
 <a href="https://github.com/barrsan/reui-vscode-theme"> <img style="width: 50px" src="https://github.com/barrsan/reui-vscode-theme/blob/master/icon.png" alt="Reui"></a>&nbsp;
 <a href="https://github.com/ahmadawais/shades-of-purple-vscode"> <img style="width: 50px" src="https://github.com/ahmadawais/shades-of-purple-vscode/blob/master/images/icon/logo.png" alt="shades-of-purple"></a>&nbsp;
-<a href="https://github.com/vagalumedev/firefly-vscode-theme"> <img style="width: 50px" src="https://github.com/vagalumedev/firefly-vscode-theme/blob/main/firefly-icon.png"></a>&nbsp;
 
 <br/>
 
@@ -148,4 +148,8 @@ The extensions above are the ones I consider essential for any web developer. Ho
 <br/>
 
 ## Final Result 📷
-![image](https://github.com/zcriticz/my-vscode-settings/assets/111531548/cac0e318-dbad-42ca-b212-e451aed9693c)
+![image1](https://github.com/zcriticz/my-vscode-settings/assets/111531548/cac0e318-dbad-42ca-b212-e451aed9693c)
+
+![image2](https://github.com/zcriticz/my-vscode-settings/assets/111531548/d5de6770-e34a-4b63-af48-921c445c6048)
+
+
