@@ -53,12 +53,6 @@ The extensions above are the ones I consider essential for any web developer. Ho
 
 <br/>
 
-#### My Icon Theme
-
-<a href="https://github.com/vscode-icons/vscode-icons" target="_blank">vscode-icons</a>
-
-<br/>
-
 #### My Favorite Font to Code
 
 1. <a href="https://github.com/microsoft/cascadia-code" target="_blank">Cascadia Code</a>&nbsp;The best font for reading code in my opinion!
@@ -149,12 +143,3 @@ The extensions above are the ones I consider essential for any web developer. Ho
 
 
 ```
-
-<br/>
-<br/>
-
-## Final Result 📷
-
-![image1](https://github.com/zcriticz/my-vscode-settings/assets/111531548/cac0e318-dbad-42ca-b212-e451aed9693c)
-
-![image2](https://github.com/zcriticz/my-vscode-settings/assets/111531548/d5de6770-e34a-4b63-af48-921c445c6048)
