@@ -1,8 +1,7 @@
 <div align="center">
    <img style="width: 80px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png"></img><br/><br/>
-   <h1>
-      <strong>My VSCode Settings!</strong>
-   </h1>
+   
+   <h1><strong>My VSCode Settings!</strong></h1>
 
    <h3>Discover my main settings for <a href="https://code.visualstudio.com" target="_blank">Visual Studio Code</a></h3>
 </div>
