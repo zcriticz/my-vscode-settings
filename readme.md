@@ -35,15 +35,16 @@ The extensions above are the ones I consider essential for any web developer. Ho
 <br/>
 
 ## My Favorite Customizations
-<a href="https://github.com/hikarin522/GlassIt-VSC">GlassIt-VSC</a> is an extension that makes your VSCode background completely transparent.
+<a href="https://github.com/hikarin522/GlassIt-VSC">GlassIt-VSC</a> It's the extension I use to make the background transparent.
 
 <br/>
 
 #### My Favorites Themes
 <a href="https://github.com/ayu-theme"> <img style="width: 50px" src="https://avatars.githubusercontent.com/u/22821360?s=200&v=4" alt="ayu"></a>&nbsp;
-<a href="https://github.com/guilhermerodz/omni-owl?tab=readme-ov-file"> <img style="width: 50px" src="https://camo.githubusercontent.com/385ca0b93603cc96ccafbff24dd5d42411dad9de80264000f0e7535ea74ea37c/68747470733a2f2f692e696d6775722e636f6d2f536a514d396a502e706e67" alt="omni"></a>&nbsp;
 <a href="https://github.com/barrsan/reui-vscode-theme"> <img style="width: 50px" src="https://github.com/barrsan/reui-vscode-theme/blob/master/icon.png" alt="Reui"></a>&nbsp;
-<a href="https://github.com/ahmadawais/shades-of-purple-vscode"> <img style="width: 50px" src="https://github.com/ahmadawais/shades-of-purple-vscode/blob/master/images/icon/logo.png" alt="ayu"></a>&nbsp;
+<a href="https://github.com/guilhermerodz/omni-owl?tab=readme-ov-file"> <img style="width: 50px" src="https://camo.githubusercontent.com/385ca0b93603cc96ccafbff24dd5d42411dad9de80264000f0e7535ea74ea37c/68747470733a2f2f692e696d6775722e636f6d2f536a514d396a502e706e67" alt="omni"></a>&nbsp;
+<a href="https://github.com/ahmadawais/shades-of-purple-vscode"> <img style="width: 50px" src="https://github.com/ahmadawais/shades-of-purple-vscode/blob/master/images/icon/logo.png" alt="shades-of-purple"></a>&nbsp;
+<a href="https://github.com/vagalumedev/firefly-vscode-theme"> <img style="width: 50px" src="https://github.com/vagalumedev/firefly-vscode-theme/blob/main/firefly-icon.png"></a>&nbsp;
 
 <br/>
 
@@ -77,7 +78,7 @@ The extensions above are the ones I consider essential for any web developer. Ho
   "workbench.startupEditor": "newUntitledFile",
 
   // Theme
-  "workbench.colorTheme": "Ayu Dark",
+  "workbench.colorTheme": "Firefly (No Italics)",
 
   // Font Family
   "editor.fontSize": 16,
@@ -110,7 +111,6 @@ The extensions above are the ones I consider essential for any web developer. Ho
   "editor.wordWrap": "on",
   "editor.guides.bracketPairs": true,
   "editor.semanticHighlighting.enabled": false,
-  "editor.cursorBlinking": "expand",
 
   // Code Save Configs
   "files.autoSave": "afterDelay",
@@ -126,20 +126,21 @@ The extensions above are the ones I consider essential for any web developer. Ho
     "package.json": "package*, .eslint*, .prettierrc*,",
     "app.js": "app.json, babel.config.js"
   },
-
   // Terminal
   "terminal.integrated.env.windows": {},
   "terminal.integrated.defaultProfile.windows": "Command Prompt",
   "terminal.integrated.cursorStyle": "line",
 
-  // Terminal Font 16y
+  // Terminal Font Family
   "terminal.integrated.fontSize": 16,
   "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
 
   // Others
+  "console-ninja.featureSet": "Community",
   "liveServer.settings.donotShowInfoMsg": true,
   "glassit.alpha": 220
 }
+
 
 ```
 <br/>
