@@ -38,10 +38,7 @@ The extensions above are the ones I consider essential for any web developer. Ho
 <br/>
 
 ## My Favorite Customizations
-
-<a href="https://github.com/hikarin522/GlassIt-VSC">GlassIt-VSC</a> It's the extension I use to make the background transparent.
-
-<br/>
+ <br/>
 
 #### My Favorites Themes
 
@@ -63,80 +60,3 @@ The extensions above are the ones I consider essential for any web developer. Ho
 
 <br/>
 <br/>
-
-## My User Settings (JSON)
-
-```
-{
-  // VSCode Startup
-  "workbench.startupEditor": "newUntitledFile",
-
-  // Theme
-  "workbench.colorTheme": "One Dark Pro Flat",
-
-  // Font Family
-  "editor.fontSize": 16,
-  "editor.lineHeight": 1.8,
-  "editor.fontFamily": "JetBrains Mono",
-  "editor.fontLigatures": true,
-
-  // Font Family by Apc
-  "apc.font.family": "Inter",
-
-  // Folders
-  "workbench.iconTheme": "material-icon-theme",
-  "workbench.tree.indent": 20,
-  "explorer.compactFolders": false,
-  "explorer.confirmDragAndDrop": false,
-  "explorer.confirmDelete": false,
-
-  // Folders by Apc
-  "apc.listRow": {
-    "height": 24
-  },
-
-  // Interface
-  "window.menuBarVisibility": "toggle",
-  "workbench.layoutControl.enabled": false,
-
-  // Code
-  "breadcrumbs.enabled": false,
-  "editor.minimap.enabled": false,
-  "editor.renderLineHighlight": "gutter",
-  "editor.scrollbar.vertical": "hidden",
-  "editor.scrollbar.horizontal": "hidden",
-  "editor.stickyScroll.enabled": false,
-  "editor.wordWrap": "on",
-  "editor.guides.bracketPairs": true,
-  "editor.semanticHighlighting.enabled": false,
-
-  // Code Save Configs
-  "files.autoSave": "afterDelay",
-  "editor.formatOnSave": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": "always"
-  },
-
-  // Packages Configs
-  "explorer.fileNesting.enabled": true,
-  "explorer.fileNesting.patterns": {
-    "package.json": "package*, .eslint*, .prettierrc*,",
-    "app.js": "app.json, babel.config.js"
-  },
-
-  // Terminal
-  "terminal.integrated.defaultProfile.windows": "Command Prompt",
-  "terminal.integrated.cursorStyle": "line",
-
-  // Terminal Font Family
-  "terminal.integrated.fontSize": 16,
-  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
-
-  // Others
-  "console-ninja.featureSet": "Community",
-  "liveServer.settings.donotShowInfoMsg": true,
-  "glassit.alpha": 220
-}
-
-```
