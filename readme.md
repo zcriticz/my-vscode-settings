@@ -45,18 +45,15 @@ The extensions above are the ones I consider essential for any web developer. Ho
 
 #### My Favorites Themes
 
-1. <a href="https://github.com/ayu-theme/vscode-ayu" target="_blank">Ayu Theme</a>
-2. <a href="https://github.com/vagalumedev/firefly-vscode-theme" target="_blank">Firefly Theme</a>
-3. <a href="https://github.com/guilhermerodz/omni-owl" target="_blank">Omini Owl Theme</a>
-4. <a href="https://github.com/barrsan/reui-vscode-theme" target="_blank">Reui Theme</a>
-5. <a href="https://github.com/ahmadawais/shades-of-purple-vscode" target="_blank">Shades of Purple Theme</a>
+1. <a href="https://github.com/Binaryify/OneDark-Pro" target="_blank">One Dark Pro</a>
+2. <a href="https://github.com/PKief/vscode-material-icon-theme" target="_blank">Material Icon Theme</a>
 
 <br/>
 
 #### My Favorite Font to Code
 
-1. <a href="https://github.com/microsoft/cascadia-code" target="_blank">Cascadia Code</a>&nbsp;The best font for reading code in my opinion!
-2. <a href="https://www.nerdfonts.com/font-downloads" target="_blank">CaskaydiaCove Nerd Font</a>&nbsp;The Nerd Font version of Cascadia Code for your terminal to look even better.
+1. <a href="https://www.jetbrains.com/lp/mono/" target="_blank">JetBrains Mono</a>&nbsp;The best font mono spaced for reading code in my opinion!
+2. <a href="https://www.nerdfonts.com/font-downloads" target="_blank">JetBrainsMono Nerd Font</a>&nbsp;The Nerd Font version of JetBrains for your terminal to look even better.
 
 <br/>
 
@@ -71,23 +68,24 @@ The extensions above are the ones I consider essential for any web developer. Ho
 
 ```
 {
-  // Zoom
-  "window.zoomLevel": 1,
-
   // VSCode Startup
   "workbench.startupEditor": "newUntitledFile",
 
   // Theme
-  "workbench.colorTheme": "Firefly (No Italics)",
+  "workbench.colorTheme": "One Dark Pro Flat",
 
   // Font Family
   "editor.fontSize": 16,
   "editor.lineHeight": 1.8,
-  "editor.fontFamily": "Cascadia Code",
+  "editor.fontFamily": "JetBrains Mono",
   "editor.fontLigatures": true,
 
+  // Font Family by Apc
+  "apc.font.family": "Inter",
+
   // Folders
-  "workbench.iconTheme": "vscode-icons",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.tree.indent": 20,
   "explorer.compactFolders": false,
   "explorer.confirmDragAndDrop": false,
   "explorer.confirmDelete": false,
@@ -126,20 +124,19 @@ The extensions above are the ones I consider essential for any web developer. Ho
     "package.json": "package*, .eslint*, .prettierrc*,",
     "app.js": "app.json, babel.config.js"
   },
+
   // Terminal
-  "terminal.integrated.env.windows": {},
   "terminal.integrated.defaultProfile.windows": "Command Prompt",
   "terminal.integrated.cursorStyle": "line",
 
   // Terminal Font Family
   "terminal.integrated.fontSize": 16,
-  "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
 
   // Others
   "console-ninja.featureSet": "Community",
   "liveServer.settings.donotShowInfoMsg": true,
   "glassit.alpha": 220
 }
-
 
 ```
