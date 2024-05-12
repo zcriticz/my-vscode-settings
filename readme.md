@@ -27,7 +27,7 @@
 <br/>
 
 #### Note
-<p>The extensions above are the ones I consider essential for any web developer. However, VSCode offers a huge variety of extensions that you can try and use according to your needs.    </p>
+<p>The extensions above are the ones I consider essential for any web developer. However, VSCode offers a huge variety of extensions that you can try and use according to your needs.</p>
 
 <br/>
 <br/>
