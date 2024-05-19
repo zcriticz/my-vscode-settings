@@ -43,6 +43,8 @@ The extensions above are the ones I consider essential for any web developer. Ho
 <br/>
 <br/>
 
+## Customization
+
 #### My Favorites Themes
 1. <a href="https://github.com/Binaryify/OneDark-Pro" target="_blank">One Dark Pro</a>
 2. <a href="https://github.com/PKief/vscode-material-icon-theme" target="_blank">Material Icon Theme</a>
