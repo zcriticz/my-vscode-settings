@@ -1,8 +1,16 @@
 <!-- Title -->
 <div align="center">
-   <img style="width: 80px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png"></img><br/><br/>
-   <h1><strong>My VSCode Settings!</strong></h1>
-   <h3>Discover my main settings for <a href="https://code.visualstudio.com" target="_blank">Visual Studio Code</a></h3>
+   <img style="width: 80px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png"></img>
+   
+<br/>
+   
+   <h1>
+      <strong>My VSCode Settings!</strong>
+   </h1>
+   
+   <h3>Discover my main settings for 
+      <a href="https://code.visualstudio.com" target="_blank">Visual Studio Code</a>
+   </h3>
 </div>
 
 <br/>
@@ -28,7 +36,7 @@
 <br/>
 
 #### Note
-<p>The extensions above are the ones I consider essential for any web developer. However, VSCode offers a huge variety of extensions that you can try and use according to your needs.</p>
+The extensions above are the ones I consider essential for any web developer. However, VSCode offers a huge variety of extensions that you can try and use according to your needs.
 
 <br/>
 <br/>
@@ -46,9 +54,7 @@
 <br/>
 
 #### Others Customizations
-<p>
-   <a href="https://github.com/drcika/apc-extension?tab=readme-ov-file">Apc Customize UI++</a> is a powerful tool capable of changing Electron properties (VSCode technology) and thus        creating various customizations to the user's taste.</a>
-</p>
+<a href="https://github.com/drcika/apc-extension?tab=readme-ov-file">Apc Customize UI++</a> is a powerful tool capable of changing Electron properties (VSCode technology) and thus        creating various customizations to the user's taste.</a>
 
 <br/>
 <br/>
