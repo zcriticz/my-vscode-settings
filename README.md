@@ -1,6 +1,6 @@
 <!-- Title -->
 <div align="center">
-   <img style="width: 80px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png"></img>
+   <img style="width: 100px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png"></img>
    
 <br/>
 <br/>
