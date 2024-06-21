@@ -6,7 +6,7 @@
 <br/>
    
 <h1>
-   <strong>My VSCode Settings!</strong>
+   <strong>My <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a> Settings !</strong>
 </h1>
  
 <br/>
