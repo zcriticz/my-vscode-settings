@@ -5,15 +5,16 @@
 <br/>
 <br/>
    
-   <h1>
-      <strong>My VSCode Settings!</strong>
-   </h1>
+<h1>
+   <strong>My VSCode Settings!</strong>
+</h1>
 
-<br/>
-   
-   <h3>Discover my main settings for 
+<h3>Discover my main settings for 
       <a href="https://code.visualstudio.com" target="_blank">Visual Studio Code</a>
    </h3>
+   
+<br/>
+
 </div>
 
 <br/>
