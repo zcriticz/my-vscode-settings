@@ -21,10 +21,10 @@
 ### Live Code Extensions
 1. <a href="https://github.com/ritwickdey/vscode-live-server" target="_blank">Live Server:</a>&nbsp;Launch a development local Server with live reload feature for static & dynamic pages.
 2. <a href="https://github.com/microsoft/vscode-livepreview" target="_blank">Live Preview:</a>&nbsp;An extension that hosts a local server for you to preview your web projects on!
-3. <a href="https://github.com/microsoft/live-share" target="_blank">Live Share:</a>&nbsp;A code sharer to work on collaborative projects involving a team of developers! <br/>
+3. <a href="https://github.com/microsoft/live-share" target="_blank">Live Share:</a>&nbsp;A code sharer to work on collaborative projects involving a team of developers! <br/> <br/>
 
 #### Note
-The extensions above are the ones I consider essential for any web developer. However, VSCode offers a huge variety of extensions that you can try and use according to your needs <br/> <br/>
+The extensions above are the ones I consider essential for any web developer. However, VSCode offers a huge variety of extensions that you can try and use according to your needs <br/> <br/> <br/>
 
 ## Customization
 
