@@ -24,7 +24,7 @@
 3. <a href="https://github.com/microsoft/live-share" target="_blank">Live Share:</a>&nbsp;A code sharer to work on collaborative projects involving a team of developers! <br/> <br/>
 
 #### Note
-The extensions above are the ones I consider essential for any web developer. However, VSCode offers a huge variety of extensions that you can try and use according to your needs <br/> <br/> <br/>
+The extensions above are the ones I consider essential for any web developer. However, VSCode offers a huge variety of extensions that you can try and use according to your needs <br/> <br/> 
 
 ## Customization
 
