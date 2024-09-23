@@ -1,0 +1,82 @@
+{
+  // When Starting
+  "workbench.startupEditor": "newUntitledFile",
+
+  // Theme
+  "workbench.colorTheme": "One Dark Pro Mix",
+
+  // Font Family
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.8,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+
+  // Rulers and Formatting
+  "editor.rulers": [80, 120],
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  // Folders Icon Theme and Tree Ident
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.tree.indent": 20,
+
+  // File Configuration
+  "explorer.compactFolders": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmPasteNative": false,
+
+  // Setting Up Some Patterns
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    "package.json": "package-lock.json, yarn.lock"
+  },
+
+  // Enabling Language Features
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+
+  // Product Icon Theme
+  "workbench.productIconTheme": "fluent-icons",
+
+  // Disabling Visual Settings
+  "window.menuBarVisibility": "hidden",
+  "workbench.layoutControl.enabled": false,
+  "workbench.activityBar.location": "hidden",
+  "workbench.statusBar.visible": false,
+
+  // Disabling Environment Settings
+  "breadcrumbs.enabled": false,
+  "editor.minimap.enabled": false,
+  "editor.renderLineHighlight": "gutter",
+
+  // Disabling Scroll Settings
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.stickyScroll.enabled": false,
+
+  // Improve Lines of Code
+  "editor.wordWrap": "on",
+  "editor.guides.bracketPairs": true,
+  "editor.semanticHighlighting.enabled": false,
+
+  // Modifying Extensions
+  "extensions.ignoreRecommendations": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+
+  // Terminal
+  "terminal.integrated.env.windows": {},
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.tabs.defaultIcon": "terminal-powershell",
+  "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
+
+  // Terminal Font Family
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontWeight": "600",
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+
+  // Apc Settings
+  "apc.font.family": "Inter",
+  "apc.listRow": {
+    "height": 24
+  }
+}
