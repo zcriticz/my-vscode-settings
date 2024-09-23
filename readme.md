@@ -37,4 +37,4 @@ The extensions above are the ones I consider essential for any web developer. Ho
 2. <a href="https://www.nerdfonts.com/font-downloads" target="_blank">JetBrainsMono Nerd Font</a>&nbsp;The Nerd Font version of JetBrains for your terminal to look even better.</a> <br/> <br/>
 
 #### Others Customizations
-<a href="https://github.com/drcika/apc-extension?tab=readme-ov-file">Apc Customize UI++</a> is a powerful tool capable of changing Electron properties (VSCode technology) and thus creating various customizations to the user's taste.</a> 
+<a href="https://github.com/drcika/apc-extension?tab=readme-ov-file">Apc Customize UI++</a> is a powerful tool capable of changing Electron properties (VSCode technology) and thus creating various customizations to the user's taste.</a>
