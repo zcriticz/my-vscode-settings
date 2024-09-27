@@ -39,5 +39,5 @@ The extensions above are the ones I consider essential for any web developer. Ho
 #### Others Customizations
 <a href="https://github.com/drcika/apc-extension?tab=readme-ov-file">Apc Customize UI++</a> is a powerful tool capable of changing Electron properties (VSCode technology) and thus creating various customizations to the user's taste.</a>  <br/>  <br/>
 
-#### Note
+#### Bonus
 You can check the all my environment settings <a href="https://github.com/zcriticz/my-vscode-settings/blob/main/settings.json" target="_blank">right here</a>
